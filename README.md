@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Mahfuzur Rahman
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning advanced JavaScript.
-- 💞️ I’m in an agency. 
-- 📫 How to reach me? set mail to "admin@mahfuzur.me".
+- 👀 I’m a JavaScript developer.
+-  I'm used to using React and Next js to build interactive user interfaces.
+-  For the back end I use Node js. 
+-  How to reach me? set mail to "admin@mahfuzur.me".
 
 <!---
 DevMahfuz/DevMahfuz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
